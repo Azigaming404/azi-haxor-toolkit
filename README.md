@@ -3,8 +3,8 @@ Script ini bertujuan untuk pendidikan dan testing, tidak di anjurkan untuk aktif
 
 Cara penginstalan
 
-<p>apt update</p>
-<p>pkg upgrade</p>
+<p>pkg update</p>
+<p>apt upgrade</p>
 <p>pkg install git</p>
 git clone https://github.com/Azigaming404/azi-haxor-toolkit.git
 
