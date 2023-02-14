@@ -9,7 +9,7 @@ Cara penginstalan
 git clone https://github.com/Azigaming404/azi-haxor-toolkit.git
 
 cd azi-haxor-toolkit
-sh install.sh
+<p>sh install.sh</p>
 <p>selesai</p>
 
 <p>cara menjalankannya</p>
