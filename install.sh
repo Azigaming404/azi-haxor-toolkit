@@ -21,7 +21,6 @@ termux-change-repo
 pkg install wget
 
 pkg install php
-pkg install ruby
 pkg install python3
 pkg install python3-pip
 
