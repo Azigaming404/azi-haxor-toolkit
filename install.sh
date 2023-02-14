@@ -19,18 +19,18 @@ echo -e "${yellow}#########################################################"
 sleep 3
 termux-change-repo
 pkg install wget
-pkg install git
+
 pkg install php
 pkg install ruby
 pkg install python3
 pkg install python3-pip
-gem install lolcat
+
 pkg install root-repo
 pkg install x11-repo
 pkg install openjdk-17
 Pkg install cowsay
 apt install neofetch
-apt install figlet
+
 pkg install fakeroot
 pkg install nmap
 pkg install exiftool
