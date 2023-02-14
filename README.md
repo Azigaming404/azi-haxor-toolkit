@@ -9,6 +9,7 @@ Cara penginstalan
 git clone https://github.com/Azigaming404/azi-haxor-toolkit.git
 
 cd azi-haxor-toolkit
+<p>pkg install figlet</p>
 <p>sh install.sh</p>
 <p>selesai</p>
 
