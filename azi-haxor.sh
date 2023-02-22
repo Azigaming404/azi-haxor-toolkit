@@ -83,3 +83,9 @@ if
 then
 sh ping.sh
 fi
+if
+[ $bro = 7 ] || [ $bro = 7 ]
+then
+redhawk.sh
+fi
+
