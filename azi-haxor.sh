@@ -40,6 +40,7 @@ echo "3).ping"
 echo "4).sqlmap"
 echo "5).knockpy"
 echo "6).nmap"
+echo "7).redhawk"
 echo
 echo   "${green}==================================================="
 echo "${ungu}"
