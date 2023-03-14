@@ -16,12 +16,11 @@ Suffix="\033[0m"
 
 echo  "${yellow}================================================="
 echo
-neofetch
 echo "${green}"
 date
 echo  "${yellow}================================================="
 echo  "${red}"
-figlet   "Haxor404" |lolcat
+figlet -f script  "Haxor404" |lolcat
 echo  "${green}             script by: AZIGAMING404                "
 echo
 echo
