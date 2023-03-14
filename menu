@@ -97,7 +97,7 @@ then
 clear
 echo "Cheking update !!!" | lolcat
 sleep 1
-git pull && sh azi-haxor.sh
+git pull && ./menu
 fi
 if
 [ $bro = 9 ] || [ $bro = 9 ]
@@ -105,5 +105,5 @@ then
 clear
 echo "Fix update please wait!!" | lolcat
 sleep 1
-git stash && git merge && sh azi-haxor.sh
+git stash && git merge && ./menu
 fi
