@@ -41,6 +41,8 @@ echo "4).sqlmap"
 echo "5).knockpy"
 echo "6).nmap"
 echo "7).redhawk"
+echo "8).update script"
+echo "9).fix update"
 echo
 echo   "${green}==================================================="
 echo "${ungu}"
@@ -92,3 +94,18 @@ sleep 1
 php rhawk.php
 fi
 
+[ $bro = 8 ] || [ $bro = 8 ]
+then
+clear
+echo "Cheking update !!!" | lolcat
+sleep 1
+git pull && sh azi-haxor.sh
+fi
+
+[ $bro = 9 ] || [ $bro = 9 ]
+then
+clear
+echo "Fix update please wait!!" | lolcat
+sleep 1
+git stash && git merge && sh azi-haxor.sh
+fi
