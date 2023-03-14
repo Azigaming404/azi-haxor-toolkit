@@ -15,9 +15,8 @@ Red_background="\033[41;37m"
 Suffix="\033[0m"
 
 echo  "${yellow}================================================="
-echo
+echo "                       Script Hacking"
 echo "${green}"
-date
 echo  "${yellow}================================================="
 echo  "${red}"
 figlet -f script  "Haxor404" |lolcat
