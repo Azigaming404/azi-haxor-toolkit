@@ -14,25 +14,25 @@ Green_background="\033[42;37m"
 Red_background="\033[41;37m"
 Suffix="\033[0m"
 
-echo  "${yellow}================================================="
+echo -e "${yellow}================================================="
 echo "                  Script Hacking"
-echo "${green}"
-echo  "${yellow}================================================="
-echo  "${red}"
+echo -e "${green}"
+echo -e "${yellow}================================================="
+echo  -e "${red}"
 figlet -f script  "Haxor404" |lolcat
-echo  "${green}             script by: AZIGAMING404                "
+echo -e "${green}             script by: AZIGAMING404                "
 echo
 echo
-echo  "${yellow}================================================="
+echo -e "${yellow}================================================="
 echo
-echo  "${ungu}                   V.2.3.0                             " 
+echo -e "${ungu}                   V.2.3.0                             " 
 echo
-echo  "${green}==================================================="
-echo "(CTRL C =  exit"
+echo -e "${green}==================================================="
+echo -e "(CTRL C =  exit"
 echo
-echo  "${ungu}MENU script: "
+echo -e "${ungu}MENU script: "
 echo
-echo   "${green}1).exiftool"
+echo  -e "${green}1).exiftool"
 echo "2).Metasploit"
 echo "3).ping"
 echo "4).sqlmap"
@@ -42,8 +42,8 @@ echo "7).redhawk"
 echo "8).update script"
 echo "9).fix update"
 echo
-echo   "${green}==================================================="
-echo "${ungu}"
+echo  -e "${green}==================================================="
+echo -e "${ungu}"
 read -p    "Pilih Nomor :" bro
 echo
 echo
