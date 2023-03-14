@@ -15,7 +15,7 @@ Red_background="\033[41;37m"
 Suffix="\033[0m"
 
 echo  "${yellow}================================================="
-echo "                   Script Hacking"
+echo "                  Script Hacking"
 echo "${green}"
 echo  "${yellow}================================================="
 echo  "${red}"
