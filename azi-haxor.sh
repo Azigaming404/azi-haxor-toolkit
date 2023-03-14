@@ -86,6 +86,9 @@ fi
 if
 [ $bro = 7 ] || [ $bro = 7 ]
 then
-redhawk.sh
+clear
+echo "LOADING RED HAWK PLEASE WAITING!!!" | lolcat
+sleep 1
+rhawk.php
 fi
 
