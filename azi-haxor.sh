@@ -27,7 +27,7 @@ echo
 echo
 echo  "${yellow}================================================="
 echo
-echo  "${ungu}                   V.2.1                             " 
+echo  "${ungu}                   V.2.3.0                             " 
 echo
 echo  "${green}==================================================="
 echo "(CTRL C =  exit"
