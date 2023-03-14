@@ -8,7 +8,7 @@ Cara penginstalan
 <p>pkg install git</p>
 git clone https://github.com/Azigaming404/azi-haxor-toolkit.git
 cd azi-haxor-toolkit
-chmod 777 menu
+chmod 777 menu.x
 <p>pkg install ruby</p>
 <p>pkg install figlet</p>
 <p>gem install lolcat </p>
@@ -17,4 +17,4 @@ chmod 777 menu
 
 <p>cara menjalankannya</p>
 
-./menu
+./menu.x
