@@ -97,7 +97,8 @@ then
 clear
 echo "Cheking update !!!" | lolcat
 sleep 1
-git pull && chmod 777 menu && ./menu
+git pull && chmod 777 menu
+./menu
 fi
 if
 [ $bro = 9 ] || [ $bro = 9 ]
@@ -105,5 +106,6 @@ then
 clear
 echo "Fix update please wait!!" | lolcat
 sleep 1
-git stash && git merge && chmod 777 menu && ./menu
+git stash && git merge && chmod 777 menu
+./menu
 fi
