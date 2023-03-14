@@ -89,6 +89,6 @@ then
 clear
 echo "LOADING RED HAWK PLEASE WAITING!!!" | lolcat
 sleep 1
-rhawk.php
+php rhawk.php
 fi
 
