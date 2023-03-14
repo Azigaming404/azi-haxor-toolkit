@@ -35,7 +35,6 @@ pkg install nmap
 pkg install exiftool
 
 clear
-git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git
 wget https://github.com/gushmazuko/metasploit_in_termux/raw/master/metasploit.sh
 chmod +x metasploit.sh
 ./metasploit.sh
