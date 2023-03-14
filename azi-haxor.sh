@@ -93,7 +93,7 @@ echo "LOADING RED HAWK PLEASE WAITING!!!" | lolcat
 sleep 1
 php rhawk.php
 fi
-
+if
 [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
@@ -101,7 +101,7 @@ echo "Cheking update !!!" | lolcat
 sleep 1
 git pull && sh azi-haxor.sh
 fi
-
+if
 [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
