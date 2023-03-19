@@ -9,6 +9,7 @@ Cara penginstalan
 git clone https://github.com/Azigaming404/azi-haxor-toolkit.git
 cd azi-haxor-toolkit
 chmod 777 menu.x
+<p>mv 3d.flf /usr/share/figlet/ </p>
 <p>pkg install ruby</p>
 <p>pkg install figlet</p>
 <p>gem install lolcat </p>
