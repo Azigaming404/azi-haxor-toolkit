@@ -15,12 +15,12 @@ Red_background="\033[41;37m"
 Suffix="\033[0m"
 
 echo -e "${WhiteB}================================================="
-echo "                  Script Hacking" | lolcat
+echo "${Red_background}                  Script Hacking"
 echo 
 echo -e "${yellow}================================================="
 echo  -e "${red}"
 figlet -f 3d  "Haxor404"
-echo -e "${Green_background}             *script by: CyberVPN*                "
+echo -e "$             *script by: CyberVPN*                "
 echo
 echo -e "${Green}      •tools for vulnerability scanning• " 
 echo -e "${yellow}================================================="
