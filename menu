@@ -22,11 +22,11 @@ figlet -f 3d  "Haxor404"
 echo -e "$             *script by: CyberVPN*                "
 echo
 echo -e "${Green}      •tools for vulnerability scanning• " 
-echo -e "${BlueCyan}================================================="
+echo -e "${WhiteB}================================================="
 echo
-echo -e "${ungu}                   V.2.3.0 LTS                             " 
+echo -e "                   V.2.3.0 LTS | lolcat                             " 
 echo
-echo -e "${BlueCyan}=================================================="
+echo -e "${WhiteB}=================================================="
 echo -e "(CTRL C =  exit"
 echo
 echo -e "${ungu}MENU script: "
