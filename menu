@@ -24,7 +24,7 @@ echo
 echo -e "${Green}      •tools for vulnerability scanning• " 
 echo -e "${WhiteB}================================================="
 echo
-echo -e "                   V.2.3.0 LTS | lolcat                             " 
+echo -e "                   V.2.3.0 LTS |                              " | lolcat
 echo
 echo -e "${WhiteB}=================================================="
 echo -e "(CTRL C =  exit"
