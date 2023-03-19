@@ -41,7 +41,7 @@ echo "7).redhawk"
 echo "8).update script"
 echo "9).fix update"
 echo
-echo  -e ""${red}_________________________________________________"
+echo -e "${red}_________________________________________________"
 echo -e "${Green}"
 read -p    "Pilih Nomor :" bro
 echo
