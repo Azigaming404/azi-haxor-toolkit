@@ -14,15 +14,15 @@ Green_background="\033[42;37m"
 Red_background="\033[41;37m"
 Suffix="\033[0m"
 
-echo -e "${yellow}================================================="
-echo "                  Script Hacking"
-echo -e "${green}"
+echo -e "${WhiteB}================================================="
+echo "                  Script Hacking" | lolcat
+echo 
 echo -e "${yellow}================================================="
 echo  -e "${red}"
-figlet -f 3d  "Haxor404" |lolcat
-echo -e "${green}             *script by: CyberVPN*                "
+figlet -f 3d  "Haxor404"
+echo -e "${Green_background}             *script by: CyberVPN*                "
 echo
-echo -e "${red}      •tools for vulnerability scanning• " 
+echo -e "${Green}      •tools for vulnerability scanning• " 
 echo -e "${yellow}================================================="
 echo
 echo -e "${ungu}                   V.2.3.0 LTS                             " 
@@ -32,7 +32,7 @@ echo -e "(CTRL C =  exit"
 echo
 echo -e "${ungu}MENU script: "
 echo
-echo  -e "${green}1).exiftool"
+echo  -e "${BlueCyan}1).exiftool"
 echo "2).Metasploit"
 echo "3).ping"
 echo "4).sqlmap"
