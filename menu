@@ -31,7 +31,7 @@ echo  "(CTRL C =  exit" | lolcat
 echo -e "${red}_________________________________________________"
 echo -e "${ungu}MENU script: "
 echo
-echo  -e "${WhiteB}1).exiftool"
+echo  -e "${BlueCyan}1).exiftool"
 echo "2).Metasploit"
 echo "3).ping"
 echo "4).sqlmap"
