@@ -27,11 +27,11 @@ echo
 echo -e "                   V.2.3.0 LTS |                              " | lolcat
 echo
 echo -e "${WhiteB}=================================================="
-echo -e "(CTRL C =  exit"
-echo
+echo  "(CTRL C =  exit" | lolcat
+echo -e "${red}_________________________________________________"
 echo -e "${ungu}MENU script: "
 echo
-echo  -e "${BlueCyan}1).exiftool"
+echo  -e "${WhiteB}1).exiftool"
 echo "2).Metasploit"
 echo "3).ping"
 echo "4).sqlmap"
@@ -41,8 +41,8 @@ echo "7).redhawk"
 echo "8).update script"
 echo "9).fix update"
 echo
-echo  -e "${WhiteB}================================================="
-echo -e "${red}"
+echo  -e ""${red}_________________________________________________"
+echo -e "${Green}"
 read -p    "Pilih Nomor :" bro
 echo
 echo
