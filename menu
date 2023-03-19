@@ -42,7 +42,7 @@ echo "8).update script"
 echo "9).fix update"
 echo
 echo  -e "${WhiteB}================================================="
-echo -e "${BlueCyan}"
+echo -e "${red}"
 read -p    "Pilih Nomor :" bro
 echo
 echo
