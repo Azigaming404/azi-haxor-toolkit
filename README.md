@@ -25,3 +25,6 @@ chmod 777 menu.x
 <p>cara menjalankannya</p>
 
 ./menu.x
+
+
+Sedekahnya kawan :) https://saweria.co/Cybervpn
